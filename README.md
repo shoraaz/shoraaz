@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m **Shourya** 
 
-📍 Mumbai, India  
+📍 Noida, India  
 🎓 B.Tech , NIT Jamshedpur (2021–2025)  
 🔬 Data Science | ML  | AI  
 
