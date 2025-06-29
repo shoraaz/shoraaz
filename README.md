@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m **Shourya Chandel** 
+# 👋 Hi there, I’m **Shourya** 
 
 📍 Mumbai, India  
 🎓 B.Tech , NIT Jamshedpur (2021–2025)  
