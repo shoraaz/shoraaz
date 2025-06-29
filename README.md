@@ -1,100 +1,81 @@
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Hey,+I'm+Shourya+Chandel!👋" alt="Shourya Banner"/>
-</p>
+# 👋 Hi there, I’m **Shourya Chandel** 
 
-<!-- Badges -->
-<p align="center">
-  <a href="https://github.com/shoraaz">
-    <img src="https://img.shields.io/github/followers/shoraaz?label=Follow&style=social" alt="GitHub Follow"/>
-  </a>
-  <img src="https://img.shields.io/badge/📍-Mumbai-red?style=flat-square" alt="Location"/>
-  <img src="https://img.shields.io/badge/NIT-Jamshedpur-blue?style=flat-square" alt="Alma Mater"/>
-  <img src="https://img.shields.io/badge/Data%20Science-ML-AI-informational?style=flat-square" alt="Field"/>
-</p>
+📍 Mumbai, India  
+🎓 B.Tech , NIT Jamshedpur (2021–2025)  
+🔬 Data Science | ML  | AI  
 
 ---
 
-## 🧠 About Me  
-Passionate **Data Scientist & ML Engineer** based in Mumbai  
-🎓 B.Tech, NIT Jamshedpur (2021–2025)  
-🔬 Building robust AI products in PDF, audio, time-series, and vision domains
+## 🚀 About Me
+
+I’m a passionate Data Scientist and Machine Learning Engineer, specializing in turning complex data into actionable insights. I’ve designed and deployed AI applications spanning PDF analysis, audio transcription, generative AI, and time-series visualization.
+
+I thrive on solving challenging problems, continuously learning, and building production-grade ML systems.
 
 ---
 
-## 💼 Experience  
+## 💼 Experience
 
-### 🛠️ AI Application Developer @ **INGENERO** *(Jan–Apr 2025)*  
-- Deployed a **Streamlit** dashboard for real-time sensor analytics (50+ streams) with **Plotly** 📊  
-- Launched a PDF-QA tool using `pdf2image`, OpenRouter Gemini/Qwen models  
-- Built a live **FastAPI + Whisper** transcript service (<5 s response)  
+### **AI Application Developer** — *INGENERO* (Jan–Apr 2025)  
+- Built a Streamlit dashboard for real-time sensor data analysis (50+ streams) using Plotly 🧠  
+- Created a PDF‑QA tool using pdf2image + OpenRouter Gemini/Qwen, enabling multimodal document Q&A  
+- Developed a real-time FastAPI + OpenAI Whisper transcription system with <5 s response time
 
-### 🚀 Generative AI Intern @ **INGENERO** *(Jun–Jul 2024)*  
-- Engineered a conversational **PDF-QA chatbot** using **LangChain**, **Hugging Face**, and **FAISS**
-
----
-
-## 🎓 Education  
-**B.Tech (Hons.) – Mechanical Engineering**  
-NIT Jamshedpur ― *Class of 2025*
+### **Summer Intern (Generative AI)** — *INGENERO* (Jun–Jul 2024)  
+- Developed a PDF-QA conversational chatbot using LangChain, HuggingFace, and FAISS
 
 ---
 
-## 🏅 Achievements & Leadership  
-- 🥈 CSV Matrix runner-up @ NIT Jamshedpur  
-- 🥉 2nd runner-up, Case Master (BITS Pilani)  
-- 🏅 National Rank 9/1144 – Critter Crusade (IIM‑B)  
-- 🥉 National Rank 24/1221 – Re‑invent‑in (IIM‑B)  
-- 🥇 Triple Gold Medalist – Zonal IMO  
-- 🎯 Gen. Secretary, Analytics & Consulting Club  
-- 📣 Content Head @ E-CELL; Event Head, NSS
+## 🎓 Education
+
+- **B.Tech (Hons.) ** — NIT Jamshedpur 
+
 
 ---
 
-## 🛠 Tech Stack  
+## 🏅 Achievements & Leadership
 
-| Category         | Tools & Libraries |
+- 🥈 Runner-up, CSV Matrix (ACC, NIT Jamshedpur)  
+- 🥉 2nd Runner-up, Case Master (BITS Pilani)  
+- 🏅 National Rank 9/1144, Critter Crusade (IIM‑B)  
+- 🥉 National Rank 24/1221, Re‑invent‑in (IIM‑B)  
+- 🥇 Gold medalist ×3, International Mathematics Olympiad (Zonal level)  
+- 🎯 Gen. Secretary, Analytics & Consulting Club, NIT Jamshedpur  
+- 📣 Content Head, E‑CELL; Event Head, NSS, NIT Jamshedpur
+
+---
+
+## 🛠 Tech Stack
+
+| Category         | Languages / Tools |
 |------------------|-------------------|
-| **Languages**     | Python · SQL       |
-| **ML / AI**       | scikit‑learn · PyTorch · LangChain · Hugging Face |
-| **Web**           | FastAPI · Streamlit |
-| **Data**          | Pandas · NumPy · SQLite · Plotly |
-| **Tools**         | FAISS · OpenRouter API  |
+| **Languages**     | Python, SQL        |
+| **ML / AI**       | scikit‑learn, PyTorch, LangChain, HuggingFace |
+| **Web Frameworks**| FastAPI, Streamlit |
+| **Data**          | Pandas, NumPy, SQLite, Plotly |
+| **Tools**         | FAISS, OpenRouter API |
 
 ---
 
-## 🌟 Featured Projects  
+## 📂 Featured Projects
 
-- **Holiday Package Prediction** — Gradient Boost classifier (90.3% accuracy)  
-- **Credit Scoring & Segmentation** — Mixed pipeline using Gradient Boost + K‑Means  
-- **Algerian Forest Fire Prediction** — Ridge Regression (MAE ≈ 0.564, R² = 98.4%) :contentReference[oaicite:1]{index=1}  
+- **Holiday Package Prediction** — Gradient Boost Classifier achieving 90.3% accuracy on 4,888 records  
+- **Credit Scoring & Segmentation** — Credit-worthiness algorithm + K‑Means clustering  
+- **Algerian Forest Fire Prediction** — Ridge Regression model with MAE ~0.564, R² = 98.4% :contentReference[oaicite:1]{index=1}
 
-**Demo Preview:**  
-<p align="center">
-  <img src="https://github.com/shoraaz/shoraaz/blob/main/demo.gif" alt="Project Demo" width="400"/>
-</p>
+(🔗 Check out the live demos and GitHub repos in my [Projects](https://shourya-codes.me/#projects) section.)
 
 ---
 
-## 📈 GitHub Stats & Activity  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shoraaz&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com/?user=shoraaz&theme=radical" alt="GitHub Streak"/>
-</p>
+## 📫 Connect With Me
+
+- 📧 Email: [bhartam43@gmail.com](mailto:bhartam43@gmail.com)  
+- 🌐 Site: [shourya-codes.me](https://shourya-codes.me/)  
+- 🧩 GitHub: [@shoraaz](https://github.com/shoraaz)
 
 ---
 
-## 🎧 Music & Vibes  
-![Joke](https://readme-jokes.vercel.app/api)
+<sub>“Continuous learning & data-driven impact.”</sub>
 
----
 
-## 📫 Connect With Me  
-- 📧 [Email](mailto:bhartam43@gmail.com)  
-- 🌐 [Portfolio](https://shourya-codes.me)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-- 🧩 [GitHub](https://github.com/shoraaz)
 
----
-
-<sub align="center">“Continuous learning & data-driven impact.”</sub>
