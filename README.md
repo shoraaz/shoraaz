@@ -1,77 +1,100 @@
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey, I'm+Shourya!👋&animation=fadeIn&type=waving&color=gradient&height=120" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&text=Hey,+I'm+Shourya+Chandel!👋" alt="Shourya Banner"/>
 </p>
 
-<div align="center">
-  
-[![Visitors Badge](https://visitor-badge.laobi.icu/badge?page_id=shoraaz.shoraaz)](https://github.com/shoraaz/shoraaz)  
-[![GitHub followers](https://img.shields.io/github/followers/shoraaz?label=Follow&style=social)](https://github.com/shoraaz)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-linkedin)  
-[![Mail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail)](mailto:bhartam43@gmail.com)
-  
-</div>
-
----
-
-## 👨‍💻 About Me
-
-A Data Scientist & ML Engineer from Mumbai 🔧  
-🎓 B.Tech Mechanical Engineering, NIT Jamshedpur (2021–2025)  
-💼 Interning at INGENERO — building AI-powered tools like PDF-QA bots, real-time sensor dashboards & FastAPI transcription systems
-
----
-
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=PyTorch)
-![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
-![Streamlit](https://img.shields.io/badge/-Streamlit-black?style=flat-square&logo=streamlit)
-![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat-square)
-![HuggingFace](https://img.shields.io/badge/-HuggingFace-black?style=flat-square&logo=huggingface)
-![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=plotly)
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| **Forest Fire Predictor** | Ridge Regression model with R²≈98.4%. [Live demo + code](https://shourya-codes.me) |
-| **Credit Scoring System** | Built using Gradient Boosting & K-Means clustering |
-| **Holiday Package Classifier** | Achieved 90.3% accuracy on custom dataset |
-| **PDF‑QA Chatbot** | Built with LangChain, HuggingFace, FAISS |
-
+<!-- Badges -->
 <p align="center">
-  <img src="https://github.com/shoraaz/shoraaz/blob/main/demo.gif" alt="project-demo" width="400"/>
+  <a href="https://github.com/shoraaz">
+    <img src="https://img.shields.io/github/followers/shoraaz?label=Follow&style=social" alt="GitHub Follow"/>
+  </a>
+  <img src="https://img.shields.io/badge/📍-Mumbai-red?style=flat-square" alt="Location"/>
+  <img src="https://img.shields.io/badge/NIT-Jamshedpur-blue?style=flat-square" alt="Alma Mater"/>
+  <img src="https://img.shields.io/badge/Data%20Science-ML-AI-informational?style=flat-square" alt="Field"/>
 </p>
 
 ---
 
-## 📈 GitHub Stats & Tools
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shoraaz&show_icons=true&theme=radical" alt="Shourya's GitHub stats"/>
-  <img src="https://streak-stats.demolab.com/?user=shoraaz&theme=radical" alt="Shourya's GitHub streak"/>
-</div>
+## 🧠 About Me  
+Passionate **Data Scientist & ML Engineer** based in Mumbai  
+🎓 B.Tech, NIT Jamshedpur (2021–2025)  
+🔬 Building robust AI products in PDF, audio, time-series, and vision domains
 
 ---
 
-## 🧩 Fun & Other Widgets
+## 💼 Experience  
 
-- 🤖 **Now playing:** [Spotify widget here]  
-- 🧠 **Daily dev quote:** `![Joke](https://readme-jokes.vercel.app/api)` <!-- optional -->
+### 🛠️ AI Application Developer @ **INGENERO** *(Jan–Apr 2025)*  
+- Deployed a **Streamlit** dashboard for real-time sensor analytics (50+ streams) with **Plotly** 📊  
+- Launched a PDF-QA tool using `pdf2image`, OpenRouter Gemini/Qwen models  
+- Built a live **FastAPI + Whisper** transcript service (<5 s response)  
 
----
-
-## 📫 Connect with Me
-
-- 💼 LinkedIn: [linkedin.com/in/your-linkedin](#)  
-- 🌐 Portfolio: [shourya-codes.me](https://shourya-codes.me)  
-- 📧 Email: [bhartam43@gmail.com](mailto:bhartam43@gmail.com)
+### 🚀 Generative AI Intern @ **INGENERO** *(Jun–Jul 2024)*  
+- Engineered a conversational **PDF-QA chatbot** using **LangChain**, **Hugging Face**, and **FAISS**
 
 ---
 
-<div align="center">
-  <sub>"Continuous learning & data-driven impact."</sub>
-</div>
+## 🎓 Education  
+**B.Tech (Hons.) – Mechanical Engineering**  
+NIT Jamshedpur ― *Class of 2025*
+
+---
+
+## 🏅 Achievements & Leadership  
+- 🥈 CSV Matrix runner-up @ NIT Jamshedpur  
+- 🥉 2nd runner-up, Case Master (BITS Pilani)  
+- 🏅 National Rank 9/1144 – Critter Crusade (IIM‑B)  
+- 🥉 National Rank 24/1221 – Re‑invent‑in (IIM‑B)  
+- 🥇 Triple Gold Medalist – Zonal IMO  
+- 🎯 Gen. Secretary, Analytics & Consulting Club  
+- 📣 Content Head @ E-CELL; Event Head, NSS
+
+---
+
+## 🛠 Tech Stack  
+
+| Category         | Tools & Libraries |
+|------------------|-------------------|
+| **Languages**     | Python · SQL       |
+| **ML / AI**       | scikit‑learn · PyTorch · LangChain · Hugging Face |
+| **Web**           | FastAPI · Streamlit |
+| **Data**          | Pandas · NumPy · SQLite · Plotly |
+| **Tools**         | FAISS · OpenRouter API  |
+
+---
+
+## 🌟 Featured Projects  
+
+- **Holiday Package Prediction** — Gradient Boost classifier (90.3% accuracy)  
+- **Credit Scoring & Segmentation** — Mixed pipeline using Gradient Boost + K‑Means  
+- **Algerian Forest Fire Prediction** — Ridge Regression (MAE ≈ 0.564, R² = 98.4%) :contentReference[oaicite:1]{index=1}  
+
+**Demo Preview:**  
+<p align="center">
+  <img src="https://github.com/shoraaz/shoraaz/blob/main/demo.gif" alt="Project Demo" width="400"/>
+</p>
+
+---
+
+## 📈 GitHub Stats & Activity  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shoraaz&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=shoraaz&theme=radical" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🎧 Music & Vibes  
+![Joke](https://readme-jokes.vercel.app/api)
+
+---
+
+## 📫 Connect With Me  
+- 📧 [Email](mailto:bhartam43@gmail.com)  
+- 🌐 [Portfolio](https://shourya-codes.me)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
+- 🧩 [GitHub](https://github.com/shoraaz)
+
+---
+
+<sub align="center">“Continuous learning & data-driven impact.”</sub>
