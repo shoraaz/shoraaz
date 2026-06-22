@@ -21,7 +21,7 @@ Currently deepening expertise in **LLM fine-tuning (LoRA/QLoRA)**, **distributed
 
 ## 💼 Professional Experience
 
-### AI/ML Engineer — *INGENERO* (Jan 2025 – Present)
+### AI/ML Engineer — *INGENERO* (Jan 2025 – April 2025)
 - Architected a **real-time audio transcription system** using FastAPI + OpenAI Whisper; achieved **<5s end-to-end latency** at production load
 - Built a **multimodal PDF-QA pipeline** (pdf2image + Gemini/Qwen via OpenRouter) reducing analyst document review time by ~40%
 - Developed a **sensor data analytics dashboard** (Streamlit + Plotly) ingesting 50+ live data streams with sub-second rendering
