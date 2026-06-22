@@ -1,81 +1,80 @@
-# 👋 Hi there, I’m **Shourya** 
+<h1 align="center">Hi, I'm Shourya 👋</h1>
+<p align="center">
+  <b>AI/ML Engineer · MLOps · LLM Systems · Production ML</b><br/>
+  📍 India &nbsp;|&nbsp; 🎓 NIT Jamshedpur &nbsp;|&nbsp; 🌐 <a href="https://shourya-codes.me">shourya-codes.me</a>
+</p>
 
-📍 Noida, India  
-🎓 B.Tech , NIT Jamshedpur (2021–2025)  
-🔬 Data Science | ML  | AI  
-
----
-
-## 🚀 About Me
-
-I’m a passionate Data Scientist and Machine Learning Engineer, specializing in turning complex data into actionable insights. I’ve designed and deployed AI applications spanning PDF analysis, audio transcription, generative AI, and time-series visualization.
-
-I thrive on solving challenging problems, continuously learning, and building production-grade ML systems.
+<p align="center">
+  <a href="mailto:bhartam43@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://shourya-codes.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/></a>
+</p>
 
 ---
 
-## 💼 Experience
+## 🧠 About Me
 
-### **AI Application Developer** — *INGENERO* (Jan–Apr 2025)  
-- Built a Streamlit dashboard for real-time sensor data analysis (50+ streams) using Plotly 🧠  
-- Created a PDF‑QA tool using pdf2image + OpenRouter Gemini/Qwen, enabling multimodal document Q&A  
-- Developed a real-time FastAPI + OpenAI Whisper transcription system with <5 s response time
+ML Engineer with hands-on experience building and deploying **production-grade AI systems** — from LLM-powered document pipelines to real-time inference APIs. I specialize in the full ML lifecycle: data engineering, model development, MLOps, and scalable serving.
 
-### **Summer Intern (Generative AI)** — *INGENERO* (Jun–Jul 2024)  
-- Developed a PDF-QA conversational chatbot using LangChain, HuggingFace, and FAISS
+Currently deepening expertise in **LLM fine-tuning (LoRA/QLoRA)**, **distributed training**, and **cloud-native ML infrastructure** on AWS & GCP.
 
 ---
 
-## 🎓 Education
+## 💼 Professional Experience
 
-- **B.Tech (Hons.) ** — NIT Jamshedpur 
+### AI/ML Engineer — *INGENERO* (Jan 2025 – Present)
+- Architected a **real-time audio transcription system** using FastAPI + OpenAI Whisper; achieved **<5s end-to-end latency** at production load
+- Built a **multimodal PDF-QA pipeline** (pdf2image + Gemini/Qwen via OpenRouter) reducing analyst document review time by ~40%
+- Developed a **sensor data analytics dashboard** (Streamlit + Plotly) ingesting 50+ live data streams with sub-second rendering
 
+### Generative AI Intern — *INGENERO* (Jun – Jul 2024)
+- Designed a **RAG-based conversational chatbot** (LangChain + HuggingFace + FAISS) for internal document Q&A, reducing manual lookup by ~60%
 
 ---
 
-## 🏅 Achievements & Leadership
+## 🚀 Featured Projects
 
-- 🥈 Runner-up, CSV Matrix (ACC, NIT Jamshedpur)  
-- 🥉 2nd Runner-up, Case Master (BITS Pilani)  
-- 🏅 National Rank 9/1144, Critter Crusade (IIM‑B)  
-- 🥉 National Rank 24/1221, Re‑invent‑in (IIM‑B)  
-- 🥇 Gold medalist ×3, International Mathematics Olympiad (Zonal level)  
-- 🎯 Gen. Secretary, Analytics & Consulting Club, NIT Jamshedpur  
-- 📣 Content Head, E‑CELL; Event Head, NSS, NIT Jamshedpur
+### 🏭 FMCG Retail MLOps Pipeline
+End-to-end production ML system for a retail use case — demand forecasting + transfer learning on product images. Stack: GCP (BigQuery, Cloud Run), MLflow, XGBoost, PyTorch, Docker, Airflow.
+
+### 🤖 LangGraph AI Decisioning Agent
+Multi-step LLM agent workflow on AWS with LangGraph; handles complex decisioning trees with tool-use, memory, and fallback routing.
+
+### 🎙️ Real-Time Transcription API
+FastAPI service wrapping Whisper for live audio-to-text; containerized with Docker, load tested to <5s p95 latency.
 
 ---
 
 ## 🛠 Tech Stack
 
-| Category         | Languages / Tools |
-|------------------|-------------------|
-| **Languages**     | Python, SQL        |
-| **ML / AI**       | scikit‑learn, PyTorch, LangChain, HuggingFace |
-| **Web Frameworks**| FastAPI, Streamlit |
-| **Data**          | Pandas, NumPy, SQLite, Plotly |
-| **Tools**         | FAISS, OpenRouter API |
+| Domain | Tools |
+|---|---|
+| **Languages** | Python, SQL |
+| **ML / DL** | PyTorch, scikit-learn, XGBoost, HuggingFace Transformers |
+| **LLM / Agents** | LangChain, LangGraph, OpenAI API, LoRA/QLoRA fine-tuning |
+| **MLOps** | MLflow, Docker, Airflow, GitHub Actions |
+| **Cloud** | AWS (SageMaker, Lambda), GCP (BigQuery, Cloud Run, Vertex AI) |
+| **Data** | Pandas, PostgreSQL, FAISS |
+| **Serving** | FastAPI, Streamlit, REST APIs |
 
 ---
 
-## 📂 Featured Projects
+## 🏅 Recognition
 
-- **Holiday Package Prediction** — Gradient Boost Classifier achieving 90.3% accuracy on 4,888 records  
-- **Credit Scoring & Segmentation** — Credit-worthiness algorithm + K‑Means clustering  
-- **Algerian Forest Fire Prediction** — Ridge Regression model with MAE ~0.564, R² = 98.4% :contentReference[oaicite:1]{index=1}
-
-(🔗 Check out the live demos and GitHub repos in my [Projects](https://shourya-codes.me/#projects) section.)
-
----
-
-## 📫 Connect With Me
-
-- 📧 Email: [bhartam43@gmail.com](mailto:bhartam43@gmail.com)  
-- 🌐 Site: [shourya-codes.me](https://shourya-codes.me/)  
-- 🧩 GitHub: [@shoraaz](https://github.com/shoraaz)
+- 🏆 National Rank **9/1144** — Critter Crusade, IIM Bangalore
+- 🏆 National Rank **24/1221** — Re-invent-in, IIM Bangalore
+- 🥈 Runner-up — CSV Matrix, NIT Jamshedpur
+- 🥇 Gold Medalist ×3 — International Mathematics Olympiad (Zonal)
+- 🎯 General Secretary — Analytics & Consulting Club, NIT Jamshedpur
 
 ---
 
-<sub>“Continuous learning & data-driven impact.”</sub>
+## 📊 GitHub Activity
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shoraaz&show_icons=true&theme=dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoraaz&layout=compact&theme=dark&hide_border=true" height="150"/>
+</p>
 
+---
 
+<p align="center"><sub>⚡ Building at the intersection of ML systems and production engineering.</sub></p>
