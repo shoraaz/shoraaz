@@ -1,46 +1,48 @@
 <h1 align="center">Hi, I'm Shourya 👋</h1>
 <p align="center">
-  <b>AI/ML Engineer · MLOps · LLM Systems · Production ML</b><br/>
+  <b>AI/ML Engineer · MLOps · LLM Systems · Production ML at Scale</b><br/>
   📍 India &nbsp;|&nbsp; 🎓 NIT Jamshedpur &nbsp;|&nbsp; 🌐 <a href="https://shourya-codes.me">shourya-codes.me</a>
 </p>
 
 <p align="center">
   <a href="mailto:bhartam43@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://shourya-codes.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat"/>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-ML Engineer with hands-on experience building and deploying **production-grade AI systems** — from LLM-powered document pipelines to real-time inference APIs. I specialize in the full ML lifecycle: data engineering, model development, MLOps, and scalable serving.
+ML Engineer currently at **Kotak Life** building production AI systems at scale — from a PII masking engine processing **12M+ documents** to LLM-powered medical document intelligence deployed on AWS EKS. I specialize in the full ML lifecycle: data engineering, model development, fine-tuning, MLOps, and scalable serving.
 
-Currently deepening expertise in **LLM fine-tuning (LoRA/QLoRA)**, **distributed training**, and **cloud-native ML infrastructure** on AWS & GCP.
+Actively working on **SLM fine-tuning (QLoRA)**, **multi-agent RAG systems**, and **cloud-native ML infrastructure** on AWS & GCP.
 
 ---
 
 ## 💼 Professional Experience
 
-### AI/ML Engineer — *INGENERO* (Jan 2025 – April 2025)
-- Architected a **real-time audio transcription system** using FastAPI + OpenAI Whisper; achieved **<5s end-to-end latency** at production load
-- Built a **multimodal PDF-QA pipeline** (pdf2image + Gemini/Qwen via OpenRouter) reducing analyst document review time by ~40%
-- Developed a **sensor data analytics dashboard** (Streamlit + Plotly) ingesting 50+ live data streams with sub-second rendering
+### Data Scientist — *Kotak Life Insurance* (May 2025 – Present) · Mumbai
+- Built and deployed a **PII masking engine** processing **12M+ documents** with YOLO v11 + OCR + CI/CD (AWS CodePipeline/CodeBuild), achieving **92% accuracy** and significant compliance cost reduction
+- Architected a production-grade async **Medical Document Intelligence API** (FastAPI on AWS EKS + S3 + Textract + Bedrock) — extracts 200+ structured underwriting fields from medical PDFs via dual-call Qwen3-VL LLM pipeline with confidence-scored JSON outputs
+- Built **AI decisioning systems using LangGraph on AWS**, orchestrating multi-step LLM agent workflows for underwriting and risk use cases with consistent low-latency decisioning
+- Architected a **multi-agent RAG evaluation framework** (Agno + LanceDB) leveraging LLM reasoning to automate insurance pitch assessment and recommendation workflows
+- Engineered a **100M+ record clustering pipeline** using HDBSCAN/KMeans, enabling actionable customer segmentation insights at scale
+- Developing a **SLM fine-tuning pipeline** (Qwen2.5-3B, QLoRA 4-bit, Unsloth) for insurance underwriting — achieving **93.8% accuracy (Macro F1: 0.911)** with 100% valid JSON output using ~0.96% trainable parameters
 
-### Generative AI Intern — *INGENERO* (Jun – Jul 2024)
-- Designed a **RAG-based conversational chatbot** (LangChain + HuggingFace + FAISS) for internal document Q&A, reducing manual lookup by ~60%
+### Data Analyst (Applied AI) — *Ingenero* (Jan – Apr 2025) · Thane
+- Built a **multimodal LLM-powered document intelligence system** for PDFs integrating OCR, image processing, and LLM inference for visually grounded Q&A
+- Developed a **FastAPI + Whisper real-time speech-to-text pipeline** and a LangChain-based QA chatbot with vector search for enterprise knowledge access
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏭 FMCG Retail MLOps Pipeline
-End-to-end production ML system for a retail use case — demand forecasting + transfer learning on product images. Stack: GCP (BigQuery, Cloud Run), MLflow, XGBoost, PyTorch, Docker, Airflow.
+### 💬 [Jupiter Money FAQbot](https://github.com/shoraaz) · [Demo](#)
+Next-generation conversational AI FAQ system for fintech — delivers banking-context-aware answers with intelligent query suggestions for fintech support use cases.
 
-### 🤖 LangGraph AI Decisioning Agent
-Multi-step LLM agent workflow on AWS with LangGraph; handles complex decisioning trees with tool-use, memory, and fallback routing.
-
-### 🎙️ Real-Time Transcription API
-FastAPI service wrapping Whisper for live audio-to-text; containerized with Docker, load tested to <5s p95 latency.
+### 💳 [Credit Scoring & Customer Segmentation](https://github.com/shoraaz)
+KMeans-based segmentation with engineered credit features and PCA — achieved ~65% dimensionality reduction with clearly separated, actionable customer segments.
 
 ---
 
@@ -49,22 +51,24 @@ FastAPI service wrapping Whisper for live audio-to-text; containerized with Dock
 | Domain | Tools |
 |---|---|
 | **Languages** | Python, SQL |
-| **ML / DL** | PyTorch, scikit-learn, XGBoost, HuggingFace Transformers |
-| **LLM / Agents** | LangChain, LangGraph, OpenAI API, LoRA/QLoRA fine-tuning |
-| **MLOps** | MLflow, Docker, Airflow, GitHub Actions |
-| **Cloud** | AWS (SageMaker, Lambda), GCP (BigQuery, Cloud Run, Vertex AI) |
-| **Data** | Pandas, PostgreSQL, FAISS |
-| **Serving** | FastAPI, Streamlit, REST APIs |
+| **ML / DL** | PyTorch, Keras, scikit-learn, XGBoost, OpenCV, EDA, Regression, Clustering |
+| **LLM / Agents** | LangChain, LangGraph, HuggingFace, RAG, MCP, A2A, AI Agents, QLoRA fine-tuning |
+| **MLOps** | MLflow, Docker, FastAPI, CI/CD, AWS CodePipeline/CodeBuild |
+| **Cloud** | AWS (SageMaker, S3, Bedrock, EC2, ECR, EKS, Textract), GCP |
+| **Data** | Pandas, NumPy, HDBSCAN, FAISS, LanceDB, Web Scraping |
+| **Dev Tools** | Git, GitHub, Excel, Cursor, Claude Code, Data Storytelling |
 
 ---
 
 ## 🏅 Recognition
 
-- 🏆 National Rank **9/1144** — Critter Crusade, IIM Bangalore
+- 🏆 National Rank **9/1144** — Critter Crusade, Vista '23, IIM Bangalore
 - 🏆 National Rank **24/1221** — Re-invent-in, IIM Bangalore
 - 🥈 Runner-up — CSV Matrix, NIT Jamshedpur
-- 🥇 Gold Medalist ×3 — International Mathematics Olympiad (Zonal)
+- 🥉 2nd Runner-up — Case Master, BITS Pilani
+- 🥇 Gold Medalist ×3 — International Mathematics Olympiad (Zonal Level)
 - 🎯 General Secretary — Analytics & Consulting Club, NIT Jamshedpur
+- 📣 Content Head, E-CELL · Event Head, NSS — NIT Jamshedpur
 
 ---
 
@@ -77,4 +81,4 @@ FastAPI service wrapping Whisper for live audio-to-text; containerized with Dock
 
 ---
 
-<p align="center"><sub>⚡ Building at the intersection of ML systems and production engineering.</sub></p>
+<p align="center"><sub>⚡ Building ML systems that scale — from fine-tuned SLMs to 12M-document pipelines.</sub></p>
