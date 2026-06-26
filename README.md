@@ -76,6 +76,7 @@ KMeans-based segmentation with engineered credit features and PCA — achieved ~
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shoraaz&show_icons=true&theme=dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shoraaz&theme=dark&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoraaz&layout=compact&theme=dark&hide_border=true" height="150"/>
 </p>
 
