@@ -94,10 +94,6 @@ Actively working on **SLM fine-tuning (QLoRA)**, **multi-agent RAG systems**, an
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shoraaz&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="trophies"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoraaz&theme=tokyo-night&hide_border=true&area=true" alt="activity graph"/>
 </p>
 
